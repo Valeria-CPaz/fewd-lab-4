@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+.first_container {
+    background: black;
+    text-align: left;
+    position: relative;
+}
+
+.first_container img {
+    margin: auto;
+    width: 80%;
+}
+
+.fc_text {
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 85%;
+    left: 10%;
+    font-family: 'Thasadith', sans-serif;
+    font-size: 18px;
+    font-stretch: expanded;
+}
