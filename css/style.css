@@ -9,17 +9,59 @@ body {
 }
 
 .first_container img {
-    margin: auto;
-    width: 80%;
+    width: 100%;
 }
 
 .fc_text {
     color: white;
     text-align: center;
     position: absolute;
-    top: 85%;
+    top: 50%;
     left: 10%;
     font-family: 'Thasadith', sans-serif;
     font-size: 18px;
     font-stretch: expanded;
 }
+
+.second_container {
+    background: black;
+    text-align: right;
+    position: relative;
+}
+
+.second_container img {
+    width: 10%;
+}
+
+.sc_text {
+    color: white;
+    text-align: right;
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 20px;
+    font-stretch: expanded;
+}
+
+.third_container {
+    background: black;
+    text-align: right;
+    position: relative;
+}
+
+.third_container img {
+    width: 100%;
+}
+
+.tc_text {
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    font-family: 'Courgette', cursive;
+    font-size: 18px;
+    font-stretch: expanded;
+}
+
