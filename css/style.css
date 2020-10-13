@@ -16,10 +16,10 @@ body {
     color: white;
     text-align: center;
     position: absolute;
-    top: 50%;
-    left: 10%;
+    top: 80%;
+    left: 7%;
     font-family: 'Thasadith', sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     font-stretch: expanded;
 }
 
@@ -30,18 +30,26 @@ body {
 }
 
 .second_container img {
-    width: 10%;
+    width: 100%;
 }
 
 .sc_text {
     color: white;
+    text-align: left;
+    position: absolute;
+    top: 40%;
+    left: 7%;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 37px;
+    font-stretch: expanded;
+}
+
+#sc_t {
     text-align: right;
     position: absolute;
     top: 50%;
-    left: 10%;
-    font-family: 'Alegreya Sans', sans-serif;
-    font-size: 20px;
-    font-stretch: expanded;
+    left: 50%;
+    font-size: 45px;
 }
 
 .third_container {
@@ -56,12 +64,12 @@ body {
 
 .tc_text {
     color: white;
-    text-align: center;
+    text-align: right;
     position: absolute;
     top: 50%;
-    left: 10%;
+    right: 7%;
     font-family: 'Courgette', cursive;
-    font-size: 18px;
+    font-size: 22px;
     font-stretch: expanded;
 }
 
